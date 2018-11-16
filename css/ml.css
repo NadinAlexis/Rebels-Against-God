@@ -1,0 +1,172 @@
+a {
+	text-decoration: none;
+	font-family: Algerian;
+}
+
+.main-header {
+	margin-bottom: 10px;
+}
+.button{
+    color: white;
+	padding:20px;
+	margin-top:60px;
+	background: light blue;
+	border: 2px purple solid;	
+	box-shadow: 0 0 10px white;
+	background-image: url(../images/19.jpg);
+}
+
+.button:hover {
+	color: white;
+	background: purple;
+	border: 2px purple solid;
+	background-image: url(../images/.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.button1 {
+	background-image: url(../images/66.png);
+	padding: 100px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.li {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	list-style: none;
+}
+
+
+#main-menu {
+	margin-bottom: 20px;
+	padding: 0;
+	text-align: center;
+	list-style: none;
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: repeat(5,1fr);
+}
+
+body {
+	background-image: url(../images/15.jpeg);
+	background-attachment: fixed;
+}
+	
+.showcase {
+      background: white;
+	  padding: 235px;
+	  margin-bottom: 10px;
+	  background-image: url(../images/2.jpg);
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  box-shadow: 0 0 10px white;	  
+}
+.intro {
+	  background: white;
+	  margin-bottom: 10px;
+	  box-shadow: 0 0 10px white;
+	  color: white;
+	  font-family: Imprint MT Shadow;
+	  text-align: center;
+	  padding:50px;
+	  background-image: url(../images/19.jpg);
+	  background-attachment: fixed;
+}
+
+
+.main-article {   
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 4fr 1fr;
+	background-repeat: no-repeat;
+	margin-bottom: 10px;
+	background-image: url(../images/12.jpg);
+	background-attachment: fixed;
+}
+.main-article2 {   
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 4fr;
+	margin-bottom: 10px;
+}
+.main-article3 {   
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 4fr 1fr;
+	margin-bottom: 10px;
+}
+	
+.left-article1 {
+	background: white;
+	color: red;
+    border: 2px purple solid;
+	box-shadow: 0 0 10px white;
+	background-image:
+}
+.left-article2 {
+	background: white;
+	color: red;
+	border: 2px purple solid;
+	box-shadow: 0 0 10px white;
+}
+.left-article3 {
+	background: white;
+	color: red;
+	border: 2px purple solid;
+	box-shadow: 0 0 10px white;
+}
+
+.right-article1 {
+	background: white;
+	color: red;
+    border: 2px purple solid;
+	box-shadow: 0 0 10px white;
+}
+.right-article2 {
+	background: white;
+	color: red;
+    border: 2px purple solid;
+	box-shadow: 0 0 10px white;
+}
+.right-article3 {
+	background: white;
+	color: red;
+    border: 2px purple solid;
+	box-shadow: 0 0 10px white;
+}
+
+.wow {
+	  background: white;
+	  margin-bottom: 10px;
+	  box-shadow: 0 0 10px white;
+	  color: white;
+	  font-family: Imprint MT Shadow;
+	  text-align: center;
+	  background-image: url(../images/19.jpg);
+	  background-attachment: fixed;
+}
+.gameplay {   
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr 1fr;
+	margin-bottom: 10px;
+}
+
+.footer {
+	background: white;
+	padding: 1px;
+	color: white;
+	text-align: center;
+	box-shadow: 0 0 5px white;
+	border: 2px purple solid;
+	font-family: Algerian;
+	background-image: url(../images/19.jpg);
+    background-attachment: fixed;
+}
+
+
